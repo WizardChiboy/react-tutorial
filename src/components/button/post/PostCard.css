@@ -1,0 +1,33 @@
+.post__card {
+  width: 400px;
+  background-color: aliceblue;
+}
+
+.post__image {
+  width: 100%;
+}
+
+.post__image .main__image {
+  width: 400px;
+  height: 200px;
+}
+
+.post__image .main__image img {
+  width: 100%;
+  height: 100%;
+}
+
+.post__image .thumbnail {
+  margin: 10px 0;
+}
+
+.post__image .thumbnail img {
+  height: 100px;
+  width: 100px;
+}
+
+.post__desc .title {
+  font-size: 20px;
+  text-transform: capitalize;
+  font-weight: bold;
+}
